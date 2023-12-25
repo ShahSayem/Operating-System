@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//SJF
 int main()
 {
     int n;  //number of process
